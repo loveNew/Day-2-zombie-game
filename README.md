@@ -1,1 +1,1 @@
-# Day-2-zombie-game
+# Zombie-Shooter
